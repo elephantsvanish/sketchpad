@@ -1,0 +1,3 @@
+Hello Git!
+Octokitty is way super cute! ;)
+Ready for commit
